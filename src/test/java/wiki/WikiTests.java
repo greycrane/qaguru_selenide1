@@ -8,7 +8,7 @@ import static com.codeborne.selenide.Selenide.*;
 
 public class WikiTests {
     @Test
-    void CheckJUnit5CodeSample() {
+    void checkJUnit5CodeSample() {
         // Открыть страницу selenide в GitHub
         open("https://github.com/selenide/selenide");
         // Перейти в раздел Wiki
