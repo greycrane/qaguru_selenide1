@@ -6,7 +6,7 @@ import static com.codeborne.selenide.Condition.*;
 import static com.codeborne.selenide.Selectors.*;
 import static com.codeborne.selenide.Selenide.*;
 
-public class hoverTests {
+public class HoverTests {
     @Test
     void hoverTest() {
         // Открыть страницу selenide в GitHub
